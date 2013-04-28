@@ -1,0 +1,37 @@
+body {
+    font: 15px "Helvetica Neue",HelveticaNeue,Helvetica,Arial,sans-serif;
+}
+.ui-timepicker {
+    font-size: 10px;
+}
+.ui-widget {
+    font-size: 10px;
+}
+.person-name {
+    width: 150px;
+}
+.vote-yes {
+    width: 80px;
+}
+.vote-no {
+    width: 80px;
+}
+.vote-unknown {
+    width: 200px;
+}
+.time-picker {
+    width: 600px;
+}
+.time-start {
+    width: 60px;
+}
+.time-end {
+    width: 60px;
+}
+#time-start-total, #time-end-total {
+    font-weight: bold;
+}
+#save {
+    margin-left: 400px;
+    margin-top: 20px;
+}
